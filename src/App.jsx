@@ -37,7 +37,7 @@ function App() {
 
   return (
     <div style={{ padding: '20px', fontFamily: 'sans-serif', maxWidth: '800px', margin: '0 auto' }}>
-      <h1 style={{ color: '#333', marginBottom: '5px' }}>Dashboard de Usuários</h1>
+      <h1 style={{ color: '#333', marginBottom: '5px' }}>Painel de Usuários</h1>
       <p style={{ color: '#666', marginTop: '0', marginBottom: '20px' }}>Desenvolvimento Prático: Demonstração de Framework (React + Vite)</p>
       
       {/* Barra de Busca Dinâmica */}
